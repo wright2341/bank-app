@@ -11,5 +11,6 @@ I edited the transaction limits on both the savings account and the current acco
 Abel Samuel Eka:
 I created this readme which requires text for documentation.
 
+
 Ekoh Pius Inalegwu:
-I developed the deposit, withdrawal, balance checking functionality.
+I developed the deposit, withdrawal, balance checking functionality
