@@ -1,3 +1,2 @@
 Amedu Wright Ugbedeojo
-BHU/24/04/05/0080
- This is a simple banking app that stimulates basic operations like Deposit, Withdrawal and Account balance. It runs on python 
+I designed and coordinated the overall architecture of the app and managed the main programs looping in for navigating users options
